@@ -32,6 +32,4 @@ Uso
 2. Clique no botão "Recarregar" para atualizar os dados
 3. Selecione um processo para ver detalhes
 
-Contribuição
 
-Contribuições são bem-vindas! Envie um pull request com suas alterações.
