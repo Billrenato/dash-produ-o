@@ -1,4 +1,4 @@
-#Dash Resumo Geral de Ordem de Produção
+# Dashboard Resumo Geral de Ordem de Produção
 
 Aplicativo web para visualização de dados de produção, desenvolvido com Dash, Plotly e Pandas.
 
