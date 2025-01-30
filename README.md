@@ -30,6 +30,9 @@ Uso
 
 1. Acesse o aplicativo em http://localhost:8050
 2. Clique no botão "Recarregar" para atualizar os dados
-3. Selecione um processo para ver detalhes
+3. Selecione no gráfico o processo para filtrar a tabela
+4. Selecione o produto na tabela para ver a imagens 
+5. Selecione uma OP na tabela para ver mais detalhes
+
 
 
